@@ -1,0 +1,16 @@
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.exe
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.deps.json
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.runtimeconfig.json
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.runtimeconfig.dev.json
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.dll
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\ref\Temperatura-Dia3.dll
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\bin\Debug\net5.0\Temperatura-Dia3.pdb
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.AssemblyInfoInputs.cache
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.AssemblyInfo.cs
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.csproj.CoreCompileInputs.cache
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.dll
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\ref\Temperatura-Dia3.dll
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.pdb
+C:\Users\VALDEZ GAMING\source\repos\Temperatura-Dia3\Temperatura-Dia3\obj\Debug\net5.0\Temperatura-Dia3.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Temperatura-Dia1/1.0.0": {
+        "runtime": {
+          "Temperatura-Dia1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperatura-Dia1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
